@@ -34,3 +34,12 @@ public class PopulationProjection
 }
 /*made the parst of years numbers then i made the formula for pop. 
 then i updated the vraibales before eavh string hi*/
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
