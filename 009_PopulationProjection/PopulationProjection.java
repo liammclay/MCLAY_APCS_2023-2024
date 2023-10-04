@@ -30,6 +30,8 @@ public class PopulationProjection
         numYears = 5;
         futurePop = birth+immigrant-death+futurePop;
         System.out.println("in five years the population will be "+futurePop);
+        
+       
     }
 }
 /*made the parst of years numbers then i made the formula for pop. 
