@@ -30,3 +30,12 @@ public class RefactorATableOfVariables
  * that were the multibples of the orginals by multiplying it by itself.
  * ten i printed it
  */
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

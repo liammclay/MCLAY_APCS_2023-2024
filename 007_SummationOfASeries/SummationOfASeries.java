@@ -17,3 +17,12 @@ public class SummationOfASeries
         System.out.println("the sum of the numbers one through nine is "+sum);
     }
 }
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

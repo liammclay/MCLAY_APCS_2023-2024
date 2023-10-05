@@ -13,3 +13,12 @@ public class TemperatureFlux
 }
 /*made two variables, made a third variable that finds the difference.
 (its the temp today) hen i print out the variables*/
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

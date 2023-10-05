@@ -16,3 +16,12 @@ public class MediaStats
         System.out.println("To kill a Mockingbird was released in "+mockingbirdYear+" and is "+mockingbirdPages+" pages long.");
     }
 }
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
