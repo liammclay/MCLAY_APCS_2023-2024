@@ -12,3 +12,4 @@ public class NameData {
     }
 }
 
+/*made my name an object and then used the functions for names inside the print funcions */
