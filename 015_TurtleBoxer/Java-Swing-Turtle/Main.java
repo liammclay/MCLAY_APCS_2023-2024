@@ -5,6 +5,41 @@ import java.awt.*;
 
 public class Main {
   public static void main(String[] args) {
+    
+    World habitat =  new World(220, 220);
+    Turtle kai = new Turtle(habitat);
+
+    kai.forward(50);
+    
+    kai.turnRight();
+    kai.forward(50);
+    
+    kai.turnRight();
+    kai.forward(50);
+
+    kai.turnRight();
+    kai.forward(50);
+
+    kai.turnRight();
+    kai.forward(25);
+    
+    kai.turnRight();
+    kai.forward(50);
+    
+    kai.turnRight();
+    kai.forward(25);
+    
+    kai.turnRight();
+    kai.forward(25);
+    
+    kai.turnRight();
+    kai.forward(50);
+    
+
+
+    habitat.show(true);
+    
+    
     //Refer back to your Runestone academy book as needed.
     //Instantiate the world. The world should be 220x220.
     
