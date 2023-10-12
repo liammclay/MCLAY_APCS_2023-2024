@@ -35,10 +35,12 @@ public class Main {
     kai.turnRight();
     kai.forward(50);
     
-
-
     habitat.show(true);
     
+
+    /*created the world, and put tghe turtle in the world.
+     * had turtle make a box and then draw a t
+     */
     
     //Refer back to your Runestone academy book as needed.
     //Instantiate the world. The world should be 220x220.
