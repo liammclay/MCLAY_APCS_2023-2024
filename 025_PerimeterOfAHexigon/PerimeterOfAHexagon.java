@@ -6,12 +6,17 @@ public class PerimeterOfAHexagon {
         System.out.print("what is the length of a side? ");
         double length = scan.nextDouble();
 
+        double rad3 = Math.sqrt(3.0);
+        double lengthsqrd = Math.pow(length, 2);
         double perimeter = length*6.0;
-        double area = ((3*Math.pow(3,-(1/2)))/2)*Math.pow(length, 2);
+        double area = (3*rad3*lengthsqrd)/2;
 
         System.out.println("perimeter is "+perimeter);
         System.out.println("area is "+area);
+        
     }
     
 }
-/*took the length foud peremiter and area using math and printed it */
+/*took the length 
+found peremiter and area using math and printed it
+ */
