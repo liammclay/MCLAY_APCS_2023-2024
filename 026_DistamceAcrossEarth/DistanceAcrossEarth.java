@@ -25,3 +25,7 @@ public class DistanceAcrossEarth{
         
     }
 }
+/* 
+ * took lat and long, then computed and retuerned it
+ * 
+*/
