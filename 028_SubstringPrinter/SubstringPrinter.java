@@ -12,4 +12,4 @@ public class SubstringPrinter {
 }
 /*put sentence in a string
  * used substring method inside println method to print the desired letters/words
- */
+ */ 
