@@ -20,3 +20,12 @@ public class PerimeterOfAHexagon {
 /*took the length 
 found peremiter and area using math and printed it
  */
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

@@ -22,3 +22,12 @@ oveflowed the max so it went back to min
 and did the other way around
  * 
  */
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

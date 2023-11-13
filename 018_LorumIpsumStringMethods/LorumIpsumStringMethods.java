@@ -22,3 +22,12 @@ public class LorumIpsumStringMethods {
  * trimmed it in another variable.
  * made a series of print statements using string methods. 
  */
+
+ /*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
