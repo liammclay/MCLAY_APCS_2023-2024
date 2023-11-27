@@ -21,6 +21,7 @@ public class CommonDigit {
                 System.out.println("there is a matching "+num1SlotOne);
             }
             else if (num1SlotTwo == num2SlotOne || num1SlotTwo == num2SlotTwo){
+                System.out.println("there is a matching "+num1SlotTwo);
             }
             else{
                 System.out.println("no numbers match.");
