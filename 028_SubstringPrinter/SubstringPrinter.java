@@ -13,3 +13,12 @@ public class SubstringPrinter {
 /*put sentence in a string
  * used substring method inside println method to print the desired letters/words
  */ 
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

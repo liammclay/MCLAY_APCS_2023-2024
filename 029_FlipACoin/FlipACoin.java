@@ -16,3 +16,12 @@ public class FlipACoin {
 /*
  * got a random int, and if it was odd i maid it print heads, els it would print tails
  */
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

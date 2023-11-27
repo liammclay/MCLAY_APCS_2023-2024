@@ -64,3 +64,12 @@ public class IsItLegalForYou {
  * used age in a series of if an else statments 
  * to let them know if they could or couldnt do stuff
  */
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
