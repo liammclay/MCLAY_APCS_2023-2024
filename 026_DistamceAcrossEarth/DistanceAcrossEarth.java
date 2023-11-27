@@ -29,3 +29,12 @@ public class DistanceAcrossEarth{
  * took lat and long, then computed and retuerned it
  * 
 */
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

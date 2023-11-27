@@ -61,3 +61,12 @@ public class Main {
     //Finally, set the world to be visible with a boolean. Ex: worldName.setVisible(the proper boolean);
   }
 }
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

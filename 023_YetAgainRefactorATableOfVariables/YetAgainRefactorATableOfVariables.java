@@ -37,3 +37,13 @@ public class YetAgainRefactorATableOfVariables
     }
     
 }
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+0/1 - Formatting
+-Extra spacing - watch out!
+1/1 - Comments
+
+*/

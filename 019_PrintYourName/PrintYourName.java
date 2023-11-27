@@ -19,3 +19,12 @@ public class PrintYourName {
  * asked name and scanned next line
  * printed out string with name
  */
+
+ /*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
