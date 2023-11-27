@@ -14,3 +14,7 @@ public class SimpleCalculator {
         }
     }
 }
+/*
+ * ask for input
+ * run a while loop where i print zero han add one until it equals the input
+ */
