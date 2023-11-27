@@ -3,7 +3,7 @@ public class VariousCounters {
         int start1 = 0;
         int start2 = 103436;
         int start3 = 1000;
-
+        
         System.out.println("This is every even number between 0 and 100.");
 
         while(start1<=100){
