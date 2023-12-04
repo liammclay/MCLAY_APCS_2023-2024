@@ -21,3 +21,4 @@ public class SimpleCounterButAForLoop {
         }
     }
 }
+//used a for loop to count up in the specified way
