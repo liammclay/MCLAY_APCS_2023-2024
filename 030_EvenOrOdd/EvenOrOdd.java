@@ -21,3 +21,12 @@ public class EvenOrOdd {
  * asked for integer
  * used modulo two to get a remainder of 1 or zero, wich means even or odd
  */
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

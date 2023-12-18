@@ -73,3 +73,12 @@ public class RPSOne {
  * took users choice, made computer choice, 
  * then compared tham and said who one
  */
+
+ /*
+
+1/1 - Compiles
+1/1 - Content
+0/1 - Formatting
+1/1 - Comments
+
+*/

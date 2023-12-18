@@ -31,3 +31,12 @@ public class ShippingCalculator {
  * it was less than an greater 
  * than certain values it would return the right statement
  */
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
