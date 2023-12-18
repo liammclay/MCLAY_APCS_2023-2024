@@ -13,12 +13,18 @@ public class BasicNestedPractice {
         System.out.println("How many colomns?(integer)");
         int colomns = scan.nextInt();
 
-        for(int i = 0; i < rows; i++){
+        if(colomns <= 20 && rows <=20){
+            for(int i = 0; i < rows; i++){
 
             for(int j = 0; j < colomns; j++){
                 System.out.print(character);
             }
             System.out.println("");
         }
+        }
+        else{
+            System.out.println("too many rows or colomns. try again and keep it under 20");
+        }
     }
 }
+// asked for character and rows and colomns.  then used that info with imbeded for loop to make grid
