@@ -7,10 +7,12 @@ public class DoubloonWords {
         System.out.println("enter a word and i will tell you if it is a doubloon word.");
         String word = scan.nextLine();
 
+        int count = 0;
+
         for(int i=0; i<word.length()-1; i++){
 
             String let = word.substring(i,i+1);
-            int count = 0;
+            count = 0;
 
             for(int j=0; j<word.length()-1; j++){
                 int compare = let.compareToIgnoreCase(word.substring(j,j+1));
@@ -19,7 +21,7 @@ public class DoubloonWords {
                     count++;
                 }
             }
-            if(count == 1){}
+            if(count != 2*(word.length()-1)){}
             else{
                 isDoubloon = false;
                 break;
@@ -37,3 +39,4 @@ public class DoubloonWords {
         }
     }
 }
+//it works ig used nested for loops and if statments to compare each letter to each letter
