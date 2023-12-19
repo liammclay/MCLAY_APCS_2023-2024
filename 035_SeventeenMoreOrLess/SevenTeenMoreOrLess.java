@@ -74,3 +74,13 @@ public class SevenTeenMoreOrLess {
 /*
  * took user imput and figured out if each number was 17 less than the others, and if they were 17 more
  */
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+-Doesn't say anything if it's not 17 more or less, seems weak.
+1/1 - Formatting
+1/1 - Comments
+
+*/

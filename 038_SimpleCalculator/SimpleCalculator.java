@@ -18,3 +18,12 @@ public class SimpleCalculator {
  * ask for input
  * run a while loop where i print zero han add one until it equals the input
  */
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

@@ -26,3 +26,13 @@ public class DivisibleInRange {
 /*took the range and the divisible number.
  * used a while loop to keep checking if the numbers were divisible or not and printing the ones tha are
  */
+
+/*
+
+1/1 - Compiles
+0/1 - Content
+-You didn't give me a count of the total divisible, you only showed what was divisible.
+1/1 - Formatting
+1/1 - Comments
+
+*/

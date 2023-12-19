@@ -47,3 +47,14 @@ public class PowerAttack {
 /*
  * made health and attack, made it so if the user attacked they would deal random damgae and if it was enough, theywould injure the enemy once the health hit zero they won
  */
+
+/*
+
+1/1 - Compiles
+0/1 - Content
+-I appreciate the creativity, but the purpose of this one was to loop until the monster was defeated.
+This sort of attack pattern is going to be explored more in depth in the next version of power attack.
+1/1 - Formatting
+1/1 - Comments
+
+*/

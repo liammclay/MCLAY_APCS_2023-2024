@@ -46,3 +46,12 @@ public class VariousCounters {
 /*
  * used while loops to print out specific counters using if statements
  */
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
