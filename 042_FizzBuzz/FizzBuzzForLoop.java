@@ -27,3 +27,12 @@ public class FizzBuzzForLoop {
     }
 }        
 // used a for loop to check each nukber if it was divisible by 3 or 5 and printed out accordingly
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

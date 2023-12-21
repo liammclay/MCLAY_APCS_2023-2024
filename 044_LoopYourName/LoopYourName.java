@@ -8,3 +8,12 @@ public class LoopYourName {
     }
 }
 //made my name in a string, used a for loop to print out each index on a new line
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

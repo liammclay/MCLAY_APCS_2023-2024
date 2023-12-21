@@ -40,3 +40,19 @@ public class DoubloonWords {
     }
 }
 //it works ig used nested for loops and if statments to compare each letter to each letter
+
+/*
+
+1/1 - Compiles
+0/1 - Content
+"
+gfgggfggggfggggfgg
+the word is a doubloon
+"
+
+No it is not.
+
+1/1 - Formatting
+1/1 - Comments
+
+*/

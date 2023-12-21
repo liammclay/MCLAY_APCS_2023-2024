@@ -32,3 +32,12 @@ public class UnethicalRPS {
  * took user imput and and printed out that the computer 
  * chose the thing that would win and then said i win 
  */
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

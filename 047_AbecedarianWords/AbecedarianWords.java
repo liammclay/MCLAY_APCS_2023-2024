@@ -32,3 +32,12 @@ public class AbecedarianWords {
     }
 }
 //asked for word. used boolean to create flag. used a for loop to compare each letter to the one infront. flagged the boolean if it wasnt abecedarian and printed accordingly.
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

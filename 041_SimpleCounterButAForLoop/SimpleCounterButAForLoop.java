@@ -22,3 +22,12 @@ public class SimpleCounterButAForLoop {
     }
 }
 //used a for loop to count up in the specified way
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

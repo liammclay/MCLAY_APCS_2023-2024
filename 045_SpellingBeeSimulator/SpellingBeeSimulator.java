@@ -22,3 +22,12 @@ public class SpellingBeeSimulator {
     }
 }
 //asked for the word printed out the first part of the reponse then use a for loop print out the letters and dashes
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

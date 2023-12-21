@@ -28,3 +28,12 @@ public class BasicNestedPractice {
     }
 }
 // asked for character and rows and colomns.  then used that info with imbeded for loop to make grid
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
