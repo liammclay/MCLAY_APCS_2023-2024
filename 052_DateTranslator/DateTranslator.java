@@ -33,3 +33,11 @@ public class DateTranslator {
     }
 }
 //I made two methods, one for EU and for USA.  I prompted the user for the information, and chose the appropriete method based on the input.
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

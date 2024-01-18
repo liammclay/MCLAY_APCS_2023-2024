@@ -7,3 +7,11 @@ public class HelloWorldButAMethod {
     }
 }
 // I made a method named helloWorld that printed "Hello World.", and then called that function.
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

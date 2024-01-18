@@ -74,3 +74,12 @@ public class ZodiacCalculatorOne {
     }
 }
 //I made a method that would compare the users age to the zodiac signs, and print out their name and zodiac.
+
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

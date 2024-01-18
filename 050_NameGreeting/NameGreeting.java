@@ -14,3 +14,11 @@ public class NameGreeting {
     }
 }
 // I made a method that took a string input, and printed Hello "String".  I used scanner to get a string from the user.
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
