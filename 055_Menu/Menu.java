@@ -1,10 +1,19 @@
 public class Menu {
-    
-    public static String itemName = "Chicken Tendies";
-    public static String itemDescription = "Crispy chicken tenders with honey mustard sauce";
+    public static void main(String[] args) {
+        MenuItem itemOne = new MenuItem();
+        MenuItem itemTwo = new MenuItem();
+        MenuItem itemThree = new MenuItem();
 
-    public static void printItem(){
-        System.out.println(itemName);
-        System.out.println("   -"+itemDescription);
+        itemOne.itemName = "Pasta";
+        itemOne.itemDescription = "Noodles with red sauce and meatballs";
+        itemTwo.itemName = "pizza";
+        itemTwo.itemDescription = "It's just peperoni pizza";
+        itemThree.itemName = "Salad";
+        itemThree.itemDescription = "Ceaser salad with crutons and parmasian cheese";
+
+        itemOne.printItem();
+        itemTwo.printItem();
+        itemThree.printItem();
     }
 }
+
