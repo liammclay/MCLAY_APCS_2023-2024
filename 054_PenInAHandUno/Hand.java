@@ -9,3 +9,11 @@ public class Hand {
     }
 }
 //used the methods from pen.java
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
