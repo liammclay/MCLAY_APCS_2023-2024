@@ -34,11 +34,15 @@ public class BankAccount {
     
     public void updateBalance(double update){
         this.currentBalance = currentBalance+update;
+        System.out.println("Your balance is updated to, ($"+currentBalance+").");
         if(currentBalance <= 0.0){
             isOverdrafted = true;
         }
         else if(currentBalance >= 0.0){
             isOverdrafted = false;
+        }
+        if(isOverdrafted = true){
+            System.out.println("Warning! your account is Overdrafted.");
         }
     }
     
@@ -46,6 +50,7 @@ public class BankAccount {
         
         System.out.println(userName+", your interest rate is applied, and your balance has been updated.");
         currentBalance = currentBalance*interestRate*0.01+currentBalance;
+        System.out.println("($"+currentBalance+")");
     }
     
     public void updateOverdraft(){
@@ -60,3 +65,4 @@ public class BankAccount {
         
     }
 }
+//made class variables, and made methods that use them to give bankinh information.

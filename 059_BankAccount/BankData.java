@@ -9,3 +9,4 @@ public class BankData {
         savingsInterestRate = 2.5;
     }
 }
+//just a class to hold banking info.

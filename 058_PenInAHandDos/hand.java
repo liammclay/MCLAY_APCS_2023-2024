@@ -21,3 +21,4 @@ public class hand {
         penFour.wordsToWrite("I hope kai passes this class, but its not likely."); 
     }
 }
+//made objects from pen class. used methods on all of the pens i made to describe/use them

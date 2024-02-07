@@ -1,7 +1,7 @@
 public class UserAccount {
     public static void main(String[] args) {
         BankData foo = new BankData();
-        BankAccount one = new BankAccount("Liam", "checkings", 100.00, foo.checkingInterestRate(), foo.savingsInterestRate());
+        BankAccount one = new BankAccount("Liam", "checkings", 100.00, foo.checkingInterestRate, foo.savingsInterestRate);
         
 
         one.updateBalance(50.00);
@@ -12,3 +12,4 @@ public class UserAccount {
 
     }
 }
+// made an object from bank data and bank account.  used methods to update balance.
