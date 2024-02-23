@@ -11,39 +11,39 @@ public class foodItem {
         this.onShelf = false;
     }
 
-    public getFoodGroup(){
+    public void getFoodGroup(){
         System.out.println(foodGroup);
     }
 
-    public setFoodGroup(String newGroup){
+    public void setFoodGroup(String newGroup){
         foodGroup = newGroup;
     }
 
-    public getFoodType(){
+    public void getFoodType(){
         System.out.println(foodType);
     }
 
-    public setFoodType(String newType){
+    public void setFoodType(String newType){
         foodType = newType;
     }
 
-    public getAmount(){
+    public void getAmount(){
         System.out.println(amount+"oz.");
     }
 
-    public setAmount(int newAmount){
+    public void setAmount(int newAmount){
         amount = newAmount;
     }
 
-    public getOnShelf(){
+    public void getOnShelf(){
         System.out.println(onShelf);
     }
 
-    public setOnShelf(String newOnShelf){
+    public void setOnShelf(String newOnShelf){
         onShelf = newOnShelf;
     }
 
-    public putOnShelf(){
+    public void putOnShelf(){
         if(onShelf = true){
             System.out.println("the food is already n the shelf.");
         }
