@@ -17,3 +17,11 @@ public class StaticMenu {
     }
 }
 // it didnt work because the variables were static, so when i updated them they were perminant across the class. so it affected the method.
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

@@ -13,3 +13,11 @@ public class UserAccount {
     }
 }
 // made an object from bank data and bank account.  used methods to update balance.
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

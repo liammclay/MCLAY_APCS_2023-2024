@@ -22,3 +22,11 @@ public class hand {
     }
 }
 //made objects from pen class. used methods on all of the pens i made to describe/use them
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
