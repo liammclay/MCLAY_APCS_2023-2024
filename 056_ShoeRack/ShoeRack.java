@@ -22,3 +22,11 @@ public class ShoeRack {
     }
 }
 // works because the variables being updated are not staic so the objects can be individualized
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
