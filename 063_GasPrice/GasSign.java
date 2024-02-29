@@ -1,8 +1,10 @@
 public class GasSign {
+    
+    public static GasPriceTracker gasOne = new GasPriceTracker("Unleaded", 2.49);
+    public static GasPriceTracker gasTwo = new GasPriceTracker("Plus", 2.79);
+    public static GasPriceTracker gasThree = new GasPriceTracker("Premium", 2.99);
+    
     public static void main(String[] args) {
-        GasPriceTracker gasOne = new GasPriceTracker("Unleaded", 2.49);
-        GasPriceTracker gasTwo = new GasPriceTracker("Plus", 2.79);
-        GasPriceTracker gasThree = new GasPriceTracker("Premium", 2.99);
 
         gasOne.printInfo();
         gasTwo.printInfo();
@@ -15,8 +17,11 @@ public class GasSign {
     }
 
     public static void wholeSign(){
+        System.out.println("You look at the whole sign and see,");
         gasOne.printInfo();
         gasTwo.printInfo();
         gasThree.printInfo();
+        System.out.println("");
     }
 }
+//gas prices are in abjects that are class variables.  I used the methods from GasPriceTracker in main, and the method whole sign I made.

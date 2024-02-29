@@ -1,0 +1,12 @@
+public class HandTwo {
+    public static void main(String[] args) {
+        PhoneTwo iPhone = new PhoneTwo("Lightning", 50, "15", "black", "Apple", "pro max");
+
+        System.out.println(iPhone);
+        iPhone.photo();
+        iPhone.weather();
+        iPhone.settings();
+        iPhone.calculator();
+        iPhone.subwaySurfers();
+    }
+}
