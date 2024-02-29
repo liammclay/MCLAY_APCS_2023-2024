@@ -10,3 +10,4 @@ public class HandTwo {
         iPhone.subwaySurfers();
     }
 }
+//made phone object and used methods from phone to print statements.  a;so used toString method fo printing info.
