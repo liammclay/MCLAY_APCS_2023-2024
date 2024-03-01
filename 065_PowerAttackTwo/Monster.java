@@ -31,7 +31,7 @@ public class Monster {
         return health;
     }
     public int getArmor(){
-        return attack;
+        return armor;
     }
     public int getStrength(){
         return strength;

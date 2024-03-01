@@ -13,10 +13,8 @@ public class Hero {
         this.weapon = weapon;
     }
 
-    
     public int getAttack(){
-        int attack = (int)(1+(Math.random() * 10))+ strength;
-        return attack;
+        return (int)(1+(Math.random() * 10))+ strength;
     }
     public String victoryCheer(){
         return "Haha, I've bested you!";
@@ -29,7 +27,7 @@ public class Hero {
         return health;
     }
     public int getArmor(){
-        return attack;
+        return armor;
     }
     public int getStrength(){
         return strength;
@@ -37,5 +35,6 @@ public class Hero {
     public void setHealth(int newHealth){
         this.health = newHealth;
     }
+   
     
 }
