@@ -11,3 +11,12 @@ public class HandTwo {
     }
 }
 //made phone object and used methods from phone to print statements.  a;so used toString method fo printing info.
+
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
