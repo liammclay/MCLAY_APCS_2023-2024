@@ -7,3 +7,4 @@ public class ClassLister {
         }
     }
 }
+//made an array of strings and printed them out
