@@ -7,8 +7,8 @@ public class Card {
         this.value = value; 
     }
 
-    public void description(){
-        System.out.println(value+" of "+suit);
+    public String description(){
+        return (value+" of "+suit);
     }
 
     public void getSuit(){
@@ -21,7 +21,7 @@ public class Card {
     public void setSuit(String newSuit){
         this.suit = newSuit;
     }
-    public void setValue(int newValue){
+    public void setValue(String newValue){
         this.value = newValue;
     }
 }
