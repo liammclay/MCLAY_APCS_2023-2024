@@ -7,10 +7,10 @@ public class Dice {
     public Dice(int numSides){
         this.numSides = numSides;
     }
-    public roll(){
-        
-
-
+    public int roll(){
+        int roll = (int) ((1+Math.random())*numSides);
+        setCurrentValue(roll);
+        return getCurrentvalue();
     }
 
     public int getCurrentvalue(){
