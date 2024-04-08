@@ -15,3 +15,12 @@ public class FavoriteBooksTwo {
         }
     }
 }
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+0/1 - Comments
+-One half hearted commend on one file doesn't qualify.
+
+*/

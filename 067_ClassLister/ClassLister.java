@@ -8,3 +8,11 @@ public class ClassLister {
     }
 }
 //made an array of strings and printed them out
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
