@@ -8,7 +8,7 @@ public class Dice {
         this.numSides = numSides;
     }
     public int roll(){
-        int roll = (int) ((1+Math.random())*numSides);
+        int roll = (int) (Math.random()*numSides)+1;
         setCurrentValue(roll);
         return getCurrentvalue();
     }
@@ -16,7 +16,7 @@ public class Dice {
     public int getCurrentvalue(){
         return currentValue;
     }
-    public int setCurrentValue(int addValue){
-        return currentValue+addValue;
+    public void setCurrentValue(int addValue){
+        currentValue+=addValue;
     }
 }

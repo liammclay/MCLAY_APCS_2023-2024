@@ -3,24 +3,26 @@ import java.util.ArrayList;
 
 public class AverageDiceRolls {
     public ArrayList<Integer> memory = new ArrayList<Integer>();
-    public int sides;
     
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         
         Boolean keepGoing = true;
+
+        AverageDiceRolls foo = new AverageDiceRolls(); 
         
         System.out.println("How many sides do you want your dice to have?");
-        sides = scan.nextInt();
+        int sides = scan.nextInt();
+        scan.nextLine();
 
         
         
-        while(keepGoing = true){
+        while(keepGoing == true){
             System.out.println("Would you like to roll the dice?(yes or no)");
             String response = scan.nextLine();
 
             if(response.equals("yes")){
-                output();
+                foo.output(sides);
             }
             else{
                 keepGoing = false;
@@ -28,19 +30,19 @@ public class AverageDiceRolls {
         }
 
     }
-    public void output(){
+    public void output(int sides){
         Dice dice = new Dice(sides);
-        int roll = dice.roll();
-        System.out.println("you rolled a"+roll);
-        memory.add(roll);
-        average(memory);
+        int curentRoll = dice.roll();
+        System.out.println("you rolled a "+curentRoll);
+        memory.add(curentRoll);
+        System.out.println("You're average is "+average(memory));
     }
-    public float average(int[] arr){
+    public float average(ArrayList<Integer> arr){
         int num = 0;
-        for(int i = 0; i<= memory.size(); i++){
-            num+=memory.get(i);
+        for(int i = 0; i< arr.size(); i++){
+            num+=arr.get(i);
         }
-        float average = num/memory.size();
+        float average = num/arr.size();
         return average;
     }
 }
