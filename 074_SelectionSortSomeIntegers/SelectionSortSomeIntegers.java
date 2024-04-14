@@ -11,7 +11,7 @@ public class SelectionSortSomeIntegers {
         int[] integers = new int[num];
 
         for(int i=0; i<num; i++){
-            int integer = (int) (Math.random()*num+1);
+            int integer = (int) (Math.random()*num*1000+1);
             integers[i] = integer;
             System.out.print(integer+", ");
         }
@@ -42,5 +42,5 @@ public class SelectionSortSomeIntegers {
         return arr;
     }
 }
-//loaded an array with a for loop, and used binary sort on the array.
+//loaded an array with a for loop, and used selection sort on the array.
 // then I printed out the array with a for each loop.
