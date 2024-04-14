@@ -4,9 +4,9 @@ public class OneThousandPositiveOrNegativeInts {
 
     public OneThousandPositiveOrNegativeInts(){
         for(int i=1; i<=1000; i++){
-            int num = (int)(Math.random()*2001);
-            if(num>1000){
-                num = num-2000;
+            int num = (int)(Math.random()*2000001);
+            if(num>1000000){
+                num = num-2000000;
                 thousand.add(num);
             }
             else{
