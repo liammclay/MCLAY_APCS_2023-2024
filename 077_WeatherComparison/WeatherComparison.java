@@ -64,3 +64,11 @@ public class WeatherComparison {
     }
 }
 //made a 2d array.  made methods that use nested for loops to find and print averages
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
