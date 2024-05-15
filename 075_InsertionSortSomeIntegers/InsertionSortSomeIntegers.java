@@ -41,3 +41,11 @@ public class InsertionSortSomeIntegers {
 }
 //loaded an array with a for loop, and used insertion sort on the array.
 // then I printed out the array with a for each loop.
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

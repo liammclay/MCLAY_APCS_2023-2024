@@ -12,3 +12,13 @@ public class AnalysisWorkbench {
 }
 //I made an arraylist in OneThousandPos... class, thenmade methods analysis class that for arraylists.
 //In this class I called the other two and used both of their methods.
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+Late - 1
+
+*/

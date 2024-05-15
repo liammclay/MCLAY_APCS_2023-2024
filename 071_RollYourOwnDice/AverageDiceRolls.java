@@ -48,3 +48,13 @@ public class AverageDiceRolls {
 }
 // used a while loop to keep asking to roll dice, and used methods outside of main to 
 // access dice class to roll dice, and to find the average.
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+Late - 1
+
+*/
