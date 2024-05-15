@@ -1,9 +1,9 @@
 public class Pizza extends Food{
     private String cheeseType;
 
-    public Pizza(double ratingTen, int calories, String cheeseType){
-        super(ratingTen, calories);
-        this.cheeseType = cheeseType;
+    public Pizza(double ratingTen, int calories, String name){
+        super(ratingTen, calories, name);
+        this.cheeseType = "Motzerella";
     }
 
     public void describePizza(){
