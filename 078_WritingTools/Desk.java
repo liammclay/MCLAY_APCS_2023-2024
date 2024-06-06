@@ -13,3 +13,11 @@ public class Desk {
 //made parent class writing tool
 //pen and pencil extend writingtool and have extra methods and variables
 //desk uses the methods from each
+
+/*
+
+3/3 - Compile/Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
